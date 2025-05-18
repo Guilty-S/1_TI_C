@@ -1,0 +1,3 @@
+D:/ST/STM32CubeIDE/1_TI_C/cmake-build-debug/CMakeFiles/1_TI_C.elf.dir
+D:/ST/STM32CubeIDE/1_TI_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ST/STM32CubeIDE/1_TI_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
